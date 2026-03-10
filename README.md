@@ -2,7 +2,7 @@
 🔭 Atualmente estou criando a Keep My Money<br>📓 Estou estudando tecnologias de front-end e back-end do ecossistema JavaScript
 
 ## 🌐 Redes Sociais:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucassoares30) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/lucaodev) [![My Skills](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@UCrrxJXo-eO0FkQifqlsLWcw)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lucassoares30) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/lucaodev_) [![My Skills](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@UCrrxJXo-eO0FkQifqlsLWcw)
 
 ## 💻 Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vite,nodejs,nest,postgres,prisma)](https://skillicons.dev)
